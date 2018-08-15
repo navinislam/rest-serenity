@@ -12,7 +12,7 @@ To run all tests, run the following command: mvn clean verify serenity:aggregate
 ```
 
 
-```
+
 
 You will see the results in the terminal.
 
